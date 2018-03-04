@@ -1,0 +1,10 @@
+# Download the four commented out wheel files from here (you might find only newer versions and hope it works): https://www.lfd.uci.edu/~gohlke/pythonlibs/
+# C:\Wheels\numpy-1.14.1+mkl-cp27-cp27m-win_amd64.whl
+# C:\Wheels\GDAL-2.2.3-cp27-cp27m-win_amd64.whl
+# C:\Wheels\Shapely-1.6.4.post1-cp27-cp27m-win_amd64.whl
+# C:\Wheels\Fiona-1.7.11.post1-cp27-cp27m-win_amd64.whl
+six
+cligj
+argparse
+ordereddict
+Django==1.8

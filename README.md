@@ -66,6 +66,10 @@ The install.sh script includes:
     sudo pip install fiona
     sudo pip install Django==1.8
 
+Windows users might find the file requirements_win64.pip helpful.
+Follow the commented instructions inside it and use this to install packages:
+    pip install -r requirements_win64.pip
+
 ## Notes
 
 The Django app use shapely and Fiona, to learn more about these see:
