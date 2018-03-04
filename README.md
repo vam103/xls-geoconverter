@@ -68,6 +68,7 @@ The install.sh script includes:
 
 Windows users might find the file requirements_win64.pip helpful.
 Follow the commented instructions inside it and use this to install packages:
+
     pip install -r requirements_win64.pip
 
 ## Notes
