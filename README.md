@@ -12,11 +12,6 @@ To learn about XLSForms visit [http://xlsform.org/](http://xlsform.org/)
 This tool is for assisting with the “.csv” export formats of ODK Aggregate, Formhub and Ona.io. Once the data has been collected you can use this tool to convert your data into a ESRI shapefile.
 
 
-## Try it out:
-
-[http://converter.geoodk.com/](http://converter.geoodk.com/)
-
-
 
 ## Question
 
@@ -26,13 +21,7 @@ This tool is for assisting with the “.csv” export formats of ODK Aggregate, 
 
 For question 
 ## Install 
-If you are using Vagrant  for testing, pull the repo and run
-
-	vagrant up
-    
-In the Vagrant file you will notice that it runs the install.sh
-
-	config.vm.provision :shell, path: "install.sh"
+Install WSL Ubuntu
  
 Run Django setup
 
